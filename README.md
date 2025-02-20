@@ -67,11 +67,11 @@ I have copied the files in the folder docker_init_files for your reference. We a
 ### Open an interactive Python shell inside the container:
 `docker exec -it python_learning python3`
 
-### Or run specific scripts from the code/ directory:
-`docker exec -it python_learning python3 /app/your_script.py`
-`docker exec -it python_learning python3 /app/quiz_game.py`
+### Or run specific scripts from the code/ directory:\
+`docker exec -it python_learning python3 /app/your_script.py`\
+`docker exec -it python_learning python3 /app/quiz_game.py`\
 
 ## Stopping the Environment:
 
-+ Stop the container when done:
++ Stop the container when done:\
 `docker-compose down`

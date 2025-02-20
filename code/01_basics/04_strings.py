@@ -2,7 +2,7 @@
 # together.
 
 # command to execute the script
-# python3 code/01_basics/strings102.py
+# python3 code/01_basics/04_strings.py
 
 # 1️⃣ Defining Two Strings
 firstName = "Muhammad"

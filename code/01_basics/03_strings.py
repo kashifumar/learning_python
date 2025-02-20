@@ -1,7 +1,7 @@
 # This Python program introduces strings and numbers, showing how data types work in Python.
 
 # command to execute the script
-# python3 code/01_basics/strings101.py
+# python3 code/01_basics/03_strings.py
 
 # 1️⃣ Defining a String (Text Data)
 

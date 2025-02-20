@@ -2,7 +2,7 @@
 # different types of values.
 
 # command to execute the script
-# python3 code/01_basics/variables101.py
+# python3 code/01_basics/01_variables.py
 
 # 1️⃣ Creating Variables and Checking Their Types
 bookPrice = 3

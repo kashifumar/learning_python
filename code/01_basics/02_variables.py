@@ -3,7 +3,7 @@
 # certain operations. This is called type conversion (type casting).
 
 # command to execute the script
-# python3 code/01_basics/variables102.py
+# python3 code/01_basics/02_variables.py
 
 # 1️⃣ Converting Strings to Numbers
 # If a number is stored as a string ("123"), we cannot perform calculations with it 

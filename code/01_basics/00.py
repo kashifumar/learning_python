@@ -1,7 +1,7 @@
 # This is a simple Python program that performs a mathematical operation and 
 # displays the result.
 
-# python3 code/01_basics/101.py
+# python3 code/01_basics/00.py
 print(5+6)
 
 # print(10 + 20)  # Output: 30

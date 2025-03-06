@@ -4,6 +4,7 @@
 # command to execute the script
 # python3 code/01_basics/04_strings.py
 
+
 # 1️⃣ Defining Two Strings
 firstName = "Muhammad"
 lastName = "Musa"
@@ -11,6 +12,7 @@ lastName = "Musa"
 # firstName is assigned the text "Muhammad".
 # lastName is assigned the text "Musa".
 # Both are strings because they are enclosed in "" (double quotes).
+
 
 # 2️⃣ Joining Strings Using + (Concatenation)
 print(firstName + " " + lastName)
@@ -24,6 +26,7 @@ print(firstName + " " + lastName)
 
 # 👉 Without the " ", the output would be "MuhammadMusa", which is incorrect.
 
+
 # 3️⃣ Printing with , (Comma)
 print(firstName, lastName)
 
@@ -35,8 +38,8 @@ print(firstName, lastName)
 
 # Same result as before, but the , makes it easier to write.
 
-# Key Takeaways
 
+# Key Takeaways
 # ✅ String Concatenation (+) manually joins text.
 # ✅ Adding " " (a space string) is needed to separate words.
 # ✅ Using , (comma) automatically adds a space when printing multiple values.
@@ -45,6 +48,7 @@ print(firstName, lastName)
 # Alternative Example: Adding a Greeting
 greeting = "Hello, " + firstName + " " + lastName + "!"
 print(greeting)
+
 
 # 📌 Output:
 # Hello, Muhammad Musa!

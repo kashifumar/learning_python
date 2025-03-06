@@ -5,8 +5,8 @@
 # python3 code/01_basics/01_variables.py
 
 # 1️⃣ Creating Variables and Checking Their Types
-bookPrice = 3
-amount = 2.5
+# bookPrice = 3
+# amount = 2.5
 print(type(bookPrice))
 
 # bookPrice is assigned 3, which is a whole number (integer).
@@ -19,9 +19,9 @@ print(type(bookPrice))
 # ✅ This means bookPrice is of type integer (int).
 
 # 2️⃣ Changing the Data Type of bookPrice
-bookPrice = "Hello"
-print(type(bookPrice))
-print(bookPrice)
+# bookPrice = "Hello"
+# print(type(bookPrice))
+# print(bookPrice)
 
 # Now, bookPrice is reassigned "Hello", which is a string (text).
 # The type() function confirms that the type of bookPrice has changed.
@@ -35,11 +35,11 @@ print(bookPrice)
 
 
 # 3️⃣ Understanding Variable Names and Case Sensitivity
-year = 2017
-Year = "2017"
+# year = 2017
+# Year = "2017"
 
-print("Type of year is ", type(year))
-print("Type of Year is ", type(Year))
+# print("Type of year is ", type(year))
+# print("Type of Year is ", type(Year))
 
 # year is assigned 2017 (a number, integer).
 # Year is assigned "2017" (text, string).
@@ -52,8 +52,8 @@ print("Type of Year is ", type(Year))
 # ✅ Even though they look similar, year and Year are separate variables.
 # ✅ Python treats uppercase and lowercase variable names differently.
 
-# Key Takeaways
 
+# Key Takeaways
 # 1️⃣ Variables store data and can change over time.
 # 2️⃣ Python allows changing data types dynamically (e.g., int to str).
 # 3️⃣ type() helps check the data type of a variable.

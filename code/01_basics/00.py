@@ -12,16 +12,18 @@ print(5+6)
 #    In Python, the print() function is used to display output on the screen.
 #     Whatever is inside the parentheses () will be shown when you run the program.
 
+
 # 5 + 6 (Mathematical Operation):
 #    The + symbol is used for addition.
 #    5 + 6 means we are adding the number 5 to the number 6.
+
 
 # Final Output:
 #    When the program runs, it calculates 5 + 6, which equals 11.
 #    The print() function then displays the result.
 
-# Key Takeaways for a First-Time Coder
 
+# Key Takeaways for a First-Time Coder
 # ✅ print() is used to show output.
 # ✅ + is an arithmetic operator for addition.
 # ✅ Python automatically calculates the result before printing.

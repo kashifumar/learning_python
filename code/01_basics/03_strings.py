@@ -3,14 +3,15 @@
 # command to execute the script
 # python3 code/01_basics/03_strings.py
 
-# 1️⃣ Defining a String (Text Data)
 
+# 1️⃣ Defining a String (Text Data)
 name = "Musa"
 year = "2017"
 
 # name stores the text "Musa" (a person's name).
 # year stores the text "2017" (even though it looks like a number, 
 # it's inside quotes, so it's treated as text, not a number).
+
 
 # 2️⃣ Checking the Data Type of year
 print(type(year))
@@ -22,8 +23,8 @@ print(type(year))
 # <class 'str'>
 # This means year is a string (text) in Python.
 
-# 3️⃣ Changing the Type of Quotes
 
+# 3️⃣ Changing the Type of Quotes
 year = '2017'
 print(type(year))
 
@@ -31,6 +32,7 @@ print(type(year))
 # Python treats single (') and double (") quotes the same for strings.
 # The output will still be:
 # <class 'str'>
+
 
 # 4️⃣ Trying to Add 1 to a String
 # print(year + 1)
@@ -51,6 +53,7 @@ print(year + 1)   # Now it works!
 # 📌 Output:
 # 2018
 
+
 # 5️⃣ Changing year to a Number
 year = 2017
 print(type(year))
@@ -62,6 +65,7 @@ print(type(year))
 
 # Now, year is a number and can be used in math calculations.
 
+
 # 6️⃣ Adding 1 to a Number
 print(year + 1)
 
@@ -70,6 +74,7 @@ print(year + 1)
 
 # 📌 Output:
 # 2018
+
 
 # Key Takeaways
 # 1️⃣ Strings (str) are text and always inside quotes (" " or ' ').
